@@ -14,6 +14,11 @@ I often go hiking in the mountains and cycling, and I frequently need to share t
    ```
 2. Run the script, where you can specify the GPX file, output location, GPX scale, and SVG line thickness:
     ![VSCODE](1.jpg)
-3. You can use it in image editing software or presentation tools like:
+3. You can use it in image editing software or presentation tool.This Markdown format organizes your content with headings, images, and code blocks, making it suitable for a README.md file.
     ![PPT](2.jpg)
-    This Markdown format organizes your content with headings, images, and code blocks, making it suitable for a README.md file.
+
+## Contact
+- SHENGLE
+- [撰風旅食:旅遊美食分享](https://jfsblog.com/)
+- [漫步時光:全台活動資訊整理](https://strolltimes.com/)
+
