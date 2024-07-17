@@ -1,6 +1,6 @@
 ## About
 
-I often go hiking in the mountains and cycling, and I frequently need to share this information. Using software like Google Maps' personal maps or hiking notes to display GPX files is a good choice. However, for further graphical presentation, editing, and marking, it can be time-consuming. Therefore, this program converts GPX data into SVG format to facilitate enhanced presentation and use. SVG, being lossless, is also well-suited for use in presentations like PowerPoint.
+I often go hiking in the mountains and cycling, and I frequently need to share this information. Using software like [Google Maps' personal maps](https://www.google.com/maps/about/mymaps/) or [HIKINGNOTE](https://hiking.biji.co/) to display GPX files is a good choice. However, for further graphical presentation, editing, and marking, it can be time-consuming. Therefore, this program converts GPX data into SVG format to facilitate enhanced presentation and use. SVG, being lossless, is also well-suited for use in presentations like PowerPoint.
 
 ![健行筆記](3.jpg)
 *Note: This image shows an actual GPX file from Cycling Circle Trip Taipei, saved and shared using hiking notes.*
