@@ -134,7 +134,7 @@ layout.addLayout(output_layout)
 
 # Meters per cm entry
 meters_per_cm_layout = QHBoxLayout()
-meters_per_cm_label = QLabel("米轉git add .公分：")
+meters_per_cm_label = QLabel("米轉公分：")
 meters_per_cm_entry = QLineEdit("100")
 meters_per_cm_layout.addWidget(meters_per_cm_label)
 meters_per_cm_layout.addWidget(meters_per_cm_entry)
